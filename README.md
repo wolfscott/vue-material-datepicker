@@ -1,18 +1,19 @@
 # vue-material-datepicker
 
-This datepicker is a fully customisable Vue(v2.1.6) version of the [material-ui datepicker](http://www.material-ui.com/#/components/date-picker) that fit all your projects.
-
-See below to discover all customisable components.
+This datepicker is a fully customisable Vue(v2.1.6) version of the [material-ui datepicker](http://www.material-ui.com/#/components/date-picker).
 
 # Contact
+Your active feedback is welcome and encouraged; it will help us imporove this product.
 
-Please give me some feedbacks to improve it !
+Origianl creator: email : grangerbastien@gmail.com
 
-If you have some issues or if you want to contribute, feel free to email me to !
+otherwise;
+Wolf Scott
+wscott@ioihan.com
 
-email : grangerbastien@gmail.com
+(NOTE: This is in progress -- if this message is here it is NOT complete)
 
-# Demo
+# Demo  <-- This seems to be PNG only ...
 
 ## Simple portrait
 
@@ -45,7 +46,7 @@ email : grangerbastien@gmail.com
 ## npm
 
 ```shell
-$ npm install vue-datepicker
+$ npm install vue-material-datepicker
 ```
 
 # Requirements
