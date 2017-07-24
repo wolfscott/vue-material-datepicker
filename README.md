@@ -11,7 +11,7 @@ otherwise;
 Wolf Scott
 wscott@ioihan.com
 
-(NOTE: This is in progress -- if this message is here it is NOT complete)
+#(NOTE: This is in progress -- if this message is here it is NOT complete)
 
 # Demo  <-- This seems to be PNG only ...
 
